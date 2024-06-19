@@ -301,7 +301,7 @@ From the analysis, several general insights emerged:
 
 **4. Skills with Higher Salaries:** Specialized skills, such as Asana and Airtable, are associated with the highest average salaries, indicating a premium on niche expertise.
 
-**5. Optimal Skills for Job Market Value:** 
+**5. Optimal Skills for Job Market Value:** Python also leads in demand and offers for a high average salary, positioning it as one of the most optimal skills for data scientists to learn to maximize their market value.
 
 
 ### Closing Thoughts
