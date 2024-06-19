@@ -247,33 +247,36 @@ LIMIT 10;
 ```
 
 ### Key Trends
-**1. Emerging and Specialized Skills Command Higher Salaries:**
-- Skills such as **C,** **Go,** and **Qlik** offer some of the highest average salaries, indicating a premium on less common but highly specialized technical skills.
-- **C** has an average salary of $164,865, **Go** offers $164,691, and **Qlik** commands $164,485.
+**1.	High Demand for Core Programming Languages:**
+- **Python** and **SQL** are the most in-demand skills, with demand counts of 763 and 591 respectively.
+- These skills also command competitive average salaries, with Python at $143,828 and SQL at $142,833.
 
-**2. Demand for Certain Skills Does Not Always Align with Salary:**
-- While some skills like **Airflow** and **BigQuery** have moderate demand counts (23 and 36, respectively), they still offer high average salaries ($157,414 and $157,142).
-- This trend suggests that specific skills are highly valued despite not being the most in-demand.
+**2.	Emerging Importance of Cloud and Big Data Technologies:**
+- **AWS**, **Azure**, and **Spark** are notable skills with significant demand and high salaries.
+- Spark has an average salary of $150,188, AWS offers $149,630, and Azure stands at $142,306.
 
-**3. Advanced Analytical Tools and Platforms Are Highly Valued:**
-- Skills in advanced data platforms and tools such as **Airflow,** **BigQuery,** **Looker,** and **Snowflake** are associated with higher salaries, reflecting their importance in sophisticated data science workflows.
+**3.	AI and Machine Learning Frameworks Offer Highest Salaries:**
+- **TensorFlow** and **PyTorch**, key machine learning frameworks, have the highest average salaries at $151,536 and $152,603 respectively.
+- Despite their lower demand counts compared to Python and SQL, these skills are highly lucrative.
+
 
 ### Summary
-The trends indicate that specialization in cloud platforms, proficiency in leading machine learning frameworks, and mastery of advanced data visualization tools are key factors influencing high-paying salaries in the data science field. As companies increasingly rely on data-driven insights, these skills continue to be in high demand, reflecting their critical role in leveraging data for business success.
+In the field of data science, Python and SQL remain essential skills due to their high demand and solid average salaries. However, there is a growing importance of cloud services (AWS, Azure) and big data technologies (Spark), which also offer competitive salaries. Machine learning frameworks such as TensorFlow and PyTorch stand out by offering the highest average salaries, reflecting their critical role and specialized nature in the industry. As such, aspiring data scientists should consider balancing foundational skills with advanced, niche technologies to maximize their career prospects and earning potential.
 
 
-| **Skill**   | **Demand Count** | **Average Salary ($)** |
-|-------------|------------------|------------------------|
-| C           | 48               | 164,865                |
-| Go          | 57               | 164,691                |
-| Qlik        | 15               | 164,485                |
-| Looker      | 57               | 158,715                |
-| Airflow     | 23               | 157,414                |
-| BigQuery    | 36               | 157,142                |
-| Scala       | 56               | 156,702                |
-| GCP         | 59               | 155,811                |
-| Snowflake   | 72               | 152,687                |
-| PyTorch     | 115              | 152,603                |
+
+| Skill ID | Skills     | Demand Count | Average Salary ($) |
+|----------|------------|--------------|--------------------|
+| 1        | Python     | 763          | 143,828            |
+| 0        | SQL        | 591          | 142,833            |
+| 5        | R          | 394          | 137,885            |
+| 182      | Tableau    | 219          | 146,970            |
+| 76       | AWS        | 217          | 149,630            |
+| 92       | Spark      | 149          | 150,188            |
+| 99       | TensorFlow | 126          | 151,536            |
+| 74       | Azure      | 122          | 142,306            |
+| 101      | PyTorch    | 115          | 152,603            |
+| 93       | Pandas     | 113          | 144,816            |
 
 *Table of the most optimal skills for data scientist sorted by salary*
 
@@ -301,7 +304,7 @@ From the analysis, several general insights emerged:
 
 **4. Skills with Higher Salaries:** Specialized skills, such as Asana and Airtable, are associated with the highest average salaries, indicating a premium on niche expertise.
 
-**5. Optimal Skills for Job Market Value:** Python also leads in demand and offers for a high average salary, positioning it as one of the most optimal skills for data scientists to learn to maximize their market value.
+**5. Optimal Skills for Job Market Value:** Python and SQL lead in demand and offers for a high average salary, positioning it as one of the most optimal skills for data scientists to learn to maximize their market value.
 
 
 ### Closing Thoughts
