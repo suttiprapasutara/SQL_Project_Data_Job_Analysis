@@ -300,7 +300,7 @@ From the analysis, several general insights emerged:
 
 **1. Top-Paying Data Scientist Jobs:** The highest-paying jobs for data scientists that allow remote work offer a wide range of salaries, the highest at $550,000!
 
-**2. Skills for Top-Paying Jobs:** High-paying data scientist jobs require advanced proficiency in SQL and Python, suggesting it’s a critical skill for earning a top salary.
+**2. Skills for Top-Paying Jobs:** High-paying data scientist jobs require advanced proficiency in SQL and Python, suggesting both are critical skills for earning a top salary.
 
 **3. Most In-Demand Skills:** Python is the most demanded skill in the data scientist job market, thus making it essential for job seekers.
 
