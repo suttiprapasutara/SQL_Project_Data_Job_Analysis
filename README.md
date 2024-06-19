@@ -239,11 +239,11 @@ WHERE
 GROUP BY
     skills_dim.skill_id
 HAVING 
-    COUNT(skills_job_dim.job_id) > 10
+    COUNT(skills_job_dim.job_id) > 100
 ORDER BY
-    avg_salary DESC,
-    demand_count DESC
-LIMIT 25;
+    demand_count DESC,
+    avg_salary DESC
+LIMIT 10;
 ```
 
 ### Key Trends
