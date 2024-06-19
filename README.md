@@ -101,9 +101,11 @@ ORDER BY
 **1.	Core Programming and Data Manipulation:**
 - **Python** and **SQL** are essential skills across multiple high-paying roles, highlighting the necessity of proficiency in these foundational tools for data analysis and manipulation.
 - Other programming languages like **Java** and **Scala** are also valued, particularly for their use in large-scale data processing and backend development.
+
 **2.	Advanced Machine Learning and Data Science Tools:**
 - Tools and frameworks such as **TensorFlow**, **PyTorch**, **scikit-learn**, and **Keras** are frequently required, indicating that expertise in machine learning and deep learning is crucial for top-paying data science positions.
 - **Spark** and **Hadoop** are significant for big data processing, reflecting the importance of skills in handling and analyzing large datasets.
+
 **3.	Cloud and Data Engineering Platforms:**
 - Knowledge of cloud platforms like **AWS**, **Azure**, and **GCP** is essential, showing the demand for skills in cloud computing and data engineering.
 - Additional tools like **Kubernetes** and **Cassandra** point to the necessity of skills in container orchestration and NoSQL databases.
