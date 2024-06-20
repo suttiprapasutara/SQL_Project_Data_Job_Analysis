@@ -22,6 +22,7 @@ For my in-depth exploration of the data scientist job market, I utilized several
 - **PostgreSQL:** The selected database management system, perfect for handling job posting data.
 - **Visual Studio Code:** My preferred tool for database management and executing SQL queries.
 - **Git & GitHub:** Crucial for version control and sharing SQL scripts and analyses, ensuring collaboration and project tracking.
+- **Power BI:** Used for creating data visualizations, such as bar charts, to represent the analysis findings clearly.
 
 
 # The Analysis
@@ -61,7 +62,12 @@ LIMIT 10;
 - Companies like **Selby Jennings**, **Demandbase**, and **Reddit** are willing to offer substantial salaries, suggesting that top firms in finance, marketing technology, and social media are particularly competitive in attracting top data science talent.
 
 ### Summary
-The top-paying data scientist roles are characterised by seniority, leadership responsibilities, and affiliation with high-profile companies. These positions demand not only advanced technical skills but also strategic vision and management capabilities, reflecting the critical role of data science in driving business decisions and innovation. 
+The top-paying data scientist roles are characterised by seniority, leadership responsibilities, and affiliation with high-profile companies. These positions demand not only advanced technical skills but also strategic vision and management capabilities, reflecting the critical role of data science in driving business decisions and innovation.
+
+![Top Paying Roles](assets/top_paying_jobs.png)
+*Bar graph visualizing the salary for the top 10 salaries for data scientists; Power BI was utilized to create this graph from my SQL query results*
+
+
 
 
 
@@ -112,6 +118,9 @@ LIMIT 10;
 
 ### Summary
 The top-paying data scientist roles emphasize a strong foundation in core programming languages (Python, SQL), advanced machine learning frameworks (TensorFlow, PyTorch), and cloud computing platforms (AWS, Azure). Additionally, expertise in big data tools (Spark, Hadoop) and data engineering technologies (Kubernetes, Cassandra) is highly valued. This reflects the multifaceted nature of data science, requiring a blend of coding proficiency, machine learning expertise, and cloud infrastructure knowledge.
+
+![Top Paying Skills](assets/top_paying_skills.png)
+*Bar graph visualizing the top 10 paying skills for data scientist jobs; Power BI was utilized to create this graph from my SQL query results*
 
 
 ## 3. In-Demand Skills for Data Scientists
@@ -314,3 +323,6 @@ From the analysis, several overarching insights became apparent:
 This project has not only boosted my SQL skills but also yielded valuable insights into the data scientist job market. The analysis findings serve as a roadmap for prioritizing skill development and optimizing job search efforts. Aspiring data scientists can strengthen their position in a competitive job market by focusing on skills that are both in high demand and command high salaries. This exploration underscores the significance of continuous learning and adapting to evolving trends in the dynamic field of data science. 
 
 
+
+
+[def]: assets/top_paying_jobs.png
