@@ -116,8 +116,11 @@ LIMIT 10;
 - Knowledge of cloud platforms like **AWS**, **Azure**, and **GCP** is essential, showing the demand for skills in cloud computing and data engineering.
 - Additional tools like **Kubernetes** and **Cassandra** point to the necessity of skills in container orchestration and NoSQL databases.
 
+**4. Data Visualization Tools:**
+- Proficiency in data visualization tools such as **Tableau** is highly valued, as these tools are crucial for interpreting and presenting data insights effectively. High salaries are associated with roles requiring Tableau, indicating its importance in the data scientist toolkit.
+
 ### Summary
-The top-paying data scientist roles emphasize a strong foundation in core programming languages (Python, SQL), advanced machine learning frameworks (TensorFlow, PyTorch), and cloud computing platforms (AWS, Azure). Additionally, expertise in big data tools (Spark, Hadoop) and data engineering technologies (Kubernetes, Cassandra) is highly valued. This reflects the multifaceted nature of data science, requiring a blend of coding proficiency, machine learning expertise, and cloud infrastructure knowledge.
+The top-paying data scientist roles emphasize a strong foundation in core programming languages (Python, SQL), advanced machine learning frameworks (TensorFlow, PyTorch), and cloud computing platforms (AWS, Azure). Additionally, expertise in big data tools (Spark, Hadoop) and data engineering technologies (Kubernetes, Cassandra) is highly valued. Additionally, proficiency in data visualization tools such as Tableau is highly valued, emphasizing the importance of interpreting and presenting data insights effectively. This reflects the multifaceted nature of data science, requiring a blend of coding proficiency, machine learning expertise, and cloud infrastructure knowledge.
 
 ![Top Paying Skills](assets/top_paying_skills.png)
 *Bar graph visualizing the top 10 paying skills for data scientist jobs; Power BI was utilized to create this graph from my SQL query results*
